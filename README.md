@@ -1,6 +1,6 @@
 # yt-id-extractor-python
 Used for extracting Youtube video IDs from file names that were created by yt-dlp.
-This has only been tested for the default configuration given by yt-dlp.
+This has only been tested for the default configuration given by yt-dlp; regex still needs to be implemented.
 
 The script outputs the video IDs into text files.
 batch-a.txt is generated from files that contained only audio.
